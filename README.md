@@ -1,2 +1,2 @@
 # pic-traffic-lights
-Basic program for red, yellow, and green LEDs
+Basic program for red and green LEDs
